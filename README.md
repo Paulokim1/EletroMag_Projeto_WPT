@@ -1,4 +1,4 @@
-# EletroMag_Projeto_WPT
+# Projeto WPT - Eletromagnetismo e Ondulatória 2021.2
 
 - Paulo Wook Kim
 - Raphael Lahiry Cabilio de Barros
